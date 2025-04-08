@@ -1,4 +1,4 @@
-package CryptoLab;
+
 
 class Ceasercipher {
     static StringBuffer encrypt(String text, int s) {

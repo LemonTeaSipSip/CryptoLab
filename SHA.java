@@ -1,4 +1,4 @@
-package CryptoLab;
+
 import java.util.*;
 
 public class SHA {

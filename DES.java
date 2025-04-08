@@ -1,4 +1,3 @@
-package CryptoLab;
 
 class DES {
     static int[] IP = {
